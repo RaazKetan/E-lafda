@@ -28,12 +28,12 @@ const ElafdaList = () => {
       original_combatants: [
         {
           name: "Rajat Dalal",
-          role: "Role 3",
-          image_url: "https://example.com/images/combatant3.jpg"
+          location: "Location 3",
+          image_url: '/assets/images/rajat.png',
         },
         {
           name: "Rajveer Singh Shisodia",
-          role: "Role 4",
+          location: "Location 4",
           image_url: "https://example.com/images/combatant4.jpg"
         }
       ],
