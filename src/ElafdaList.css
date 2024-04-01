@@ -1,0 +1,47 @@
+.elafda-list {
+    list-style-type: none;
+    padding: 0;
+   }
+   
+   .elafda-list-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+   }
+   
+   .combatants {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+   }
+   
+   .combatant {
+    text-align: center;
+    margin: 0 10px;
+   }
+   
+   .combatant img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+   }
+   
+   .details {
+    text-align: center;
+    margin-bottom: 10px;
+   }
+   
+   .people-involved {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   }
+   
+   .person-involved {
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+   }
+   
