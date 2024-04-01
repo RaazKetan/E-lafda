@@ -54,7 +54,7 @@ const elafdaData = [
       {
         name: "Rajat Dalal",
         location: "Haryana",
-        image_url: "/images/maxtern.png",
+        image_url: "/images/rajat.png",
       },
     ],
     audio_url:'/audio/attitude.mp3',
@@ -71,7 +71,7 @@ const elafdaData = [
       {
         name: "Rajat Dalal",
         location: "Haryana",
-        image_url: "/images/elvish.png",
+        image_url: "/images/rajat.png",
       },
       {
         name: "Singha",

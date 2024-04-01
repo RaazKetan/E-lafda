@@ -11,7 +11,7 @@ function App() {
  };
 
  return (
-    <div className="App" style={{ textAlign: 'center', paddingTop: '50px' }}>
+    <div className="App" style={{ textAlign: 'center', paddingTop: '50px', backgroundColor:'rgb(0,0,0, 0.8)'}}>
       <h1>E-Lafda</h1>
       <h4>Never Miss Out on Elfda From Now On</h4>
       <p>"Dates may vary"</p>
